@@ -4,6 +4,8 @@
 
 **_задание 2_**
 
+![](https://github.com/snovivi/hw6/blob/master/Снимок%20экрана%202018-03-27%20в%2022.44.25.png)
+
 **_задание 3_**
 
 # Sketch Engine
